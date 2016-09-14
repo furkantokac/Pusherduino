@@ -2,6 +2,8 @@
 
 Version 1.0.0
 
+-------------------------------------
+
 # Description
 
 There are 4 buttons and each button has a led. When the game start, one led is turned on.
@@ -9,6 +11,8 @@ Gamer should push the button of the led in the given time interval. If gamer can
 correct button, s/he will make a score and delayTime will decrease. If gamer push the wrong
 button or cannot push the button in the given time interval, s/he will lose a life. If gamer
 makes a combo, s/he will gain a life.
+
+-------------------------------------
 
 # Under Development
 
